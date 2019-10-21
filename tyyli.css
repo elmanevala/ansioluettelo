@@ -14,10 +14,24 @@ body {
  }
 
  h2 {
+   margin-top: 3em;
     text-align: center;
     color: #333;
  }
 
- .kielet{
-     text-align: center;
+.kielet {
+  text-align: center;
+}
+
+ .kieliboxi{
+    margin-top: 3em;
+     padding: 2px 4px;
+     background: #eee;
+     max-width: 25em;
+     position: relative;
+     align: left;
+ }
+
+ #kielitaito_otsikko {
+   margin-top: 1em;
  }
